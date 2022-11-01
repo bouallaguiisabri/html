@@ -1,0 +1,60 @@
+div nav{
+    display: inline;
+    }
+    body{
+        font-family: 'roboto'; font-size: 15px;
+    }
+.font{
+    font-size: 64px ;
+color:darkslategrey;
+
+text-align: center;
+padding: 64px 10px;
+margin: 70px 20px;
+}
+.desc,.desc1,.desc2,.desc3,.desc4,.desc5{
+  
+    text-align:center;
+    font-size: 30px ;
+    padding: 10px;
+}
+.hdn1,.hdn2,.hdn3,.hdn4{
+    text-decoration: underline;
+    text-align:center;
+    font-size: 20px ;
+    padding: 10px;
+}
+.note{
+    text-transform: uppercase;
+    color: black;
+    text-size-adjust: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: medium;
+    font-style: italic;
+}
+.note2{
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    color: darkslategray;
+    text-size-adjust: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: medium;
+    font-style: italic;
+}
+
+
+a:link{
+    color:black;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color:gray;
+}
+ a:active{
+    color:blueviolet;
+ }
